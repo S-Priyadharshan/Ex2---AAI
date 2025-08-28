@@ -18,7 +18,7 @@ Step 6: Perform exact inference using the defined evidence and query variables.<
 Step 7: Print the results.<br>
 
 ## Program :
-```
+```python
 pip install pgmpy
 
 # Importing Library
